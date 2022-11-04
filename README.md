@@ -5,3 +5,4 @@ Following is the range of concepts and topics covered in the assignments:
   1. AML_HW01_RuchiS.ipynb - Adoption of AI; Maximum Likelihood Estimate; Linear Regression with Lasso, Ridge and Elastic Net regularization
   2. AML_HW02_RuchiS.ipynb - Bias Variance TradeOff; Learning Curves; Stochastic Gradient Descent and Momentum 
   3. AML_HW03_RuchiS.ipynb - Tensorflow Playground, t-SNE & PCA Dimensionality Reduction, PyOD Outlier Detection (KNN, INNE), Preprocessing and Sampling
+  4. AML_HW04_RuchiS.ipynb - Expected Loss for Classficiation, Logistic Regression expression and formulation, Classfication with Decision Tree, Logistic Regression, MLP and imablanced classes handling using SMOTE, Comparison of ROC-AUC and Precision-Recall Curves, Bayes Decision Theory, Bayesian Belief Networks, Theoretical understanding of Support Vector Machines including Slack and Kernels
